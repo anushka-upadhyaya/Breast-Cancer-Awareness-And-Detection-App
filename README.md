@@ -1,3 +1,5 @@
+ ![GitHub Logo](https://lh3.googleusercontent.com/proxy/h-FLWUmxzXYLV98BF6XPIimOgac-tth84I1_QlieOVENHReYojK083Rkh0NProVOVBY7_KgG0jFHXYkFaCMPIzpy48_s1JigA8a-DiaewiuztGymtkmksz0Ax-eC7wgp88DOQ3xH5iukSl6SyLowaOhf)
+
 # Breast Cancer Awareness and Detection Using a WebApp and AI Model
 ## There can be life after breast cancer. The prerequisite is early detection.
 
@@ -33,3 +35,6 @@ Dealing, Cleaning and Preprocessing of Data Collected.
 
 ## What's next for Breast Cancer Awareness and Detection?
 We are ready with our model. In the long run, we need to make an automated image processor for the extraction of features and implementing them on the web.
+
+## Team 
+<i>Amit Patel</i> and <i>Anushka Upadhyaya</i>
