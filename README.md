@@ -34,7 +34,9 @@ The Languagues used were in itself very challenging.
 Dealing, Cleaning and Preprocessing of Data Collected.
 
 ## What's next for Breast Cancer Awareness and Detection?
-We are ready with our model. In the long run, we need to make an automated image processor for the extraction of features and implementing them on the web.
+We are ready with our model. In the long run, we need to make an automated image processor for the extraction of features and implementing them on the web. Taking this a step further we will be Implementing this for Men Too.
+
+### Pink for Women , Blue for Men. Yes !! Men get it too.
 
 ## Team 
 <i>Amit Patel</i> and <i>Anushka Upadhyaya</i>
